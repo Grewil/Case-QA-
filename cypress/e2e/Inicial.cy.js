@@ -14,6 +14,5 @@ describe('Desafio Beedoo QA Chalenge', function(){
     it('CT 0016 - Validar o botão "LISTAR CURSOS"...', function() {
         cy.get('[href="/"] > .q-btn__content > .block').click()
     
-  
       })
 })

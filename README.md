@@ -1,5 +1,5 @@
 # Desafio-QA-Beedoo
-Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative-sherbet-a51eac.netlify.app/" onde foi executado os testes de criar e excluir a lista de cursos.  
+Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative-sherbet-a51eac.netlify.app/" onde foi executado os testes de criar e excluir um curso da lista de cursos.  
 
 # História de usuário:
 
@@ -14,20 +14,20 @@ Esse projeto é um teste E2E da aplicação BEEDOO QA Chalenge "https://creative
  Os testes manuais está documentado em .XLSX no  Google Sheets no link (https://docs.google.com/spreadsheets/d/1BYNnjCUcQVCfEDDa4JRikeC_RedazD85/edit?usp=drive_link&ouid=106437964310882198040&rtpof=true&sd=true) :
 
  - **HISTÓRIA DE USUÁRIO:** Levantamento das necessidades de um administrador e de um usuário.
- - PLANEJAMENTO: Levantamento de toas as telas e suas funcionalidades.
+ - **PLANEJAMENTO:** Levantamento de todas as telas e suas funcionalidades.
  - **MAPEAMENTO DOS CASOS DE TESTE:** Mapear todos os testes necessários e controlar algumas informações como (Nº Caso de Teste,	Nome do Caso de Teste,	Complexidade,	Tipo de Teste, 	Necessidade de massa de Teste,	Funcionalidade associada ao CT,	Passível de automação,	Regressivo Obrigatório,	Prioridade,	Versão)
  - **CASOS DE TESTE GHERKIN:** Informações dos casos de testes e a execução dos teses (Nº do Caso de Teste,	Nome do Caso de Teste,	Casos de teste Gherkin,	Execução,	Pré-Requisitos,	Massa de Testes,	Status,	Tela,	Observação).
  - **CONTROLE DE EXECUÇÃO:** O controle para esses testes foi realizado através de de planilha mas também pode ser realizado com outras ferramentas como exemplo Jira, trello e testlink facilitando a comunicação com o time.
  - **CONTROLE DE BUG:** Controle e histórico com os bug.
  - **MASSA DE DADOS:** Massa de dados utilizado nos tetes.
 
-# Evidências dos testes
-Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra no link (https://drive.google.com/drive/folders/14UDH3KXzhLei9Ng8gwCyirYO_J27F7oA?usp=drive_link) 
+# Evidências
+Evidências da execução dos testes foi realizada no formato MP4 e se encontra no link (https://drive.google.com/drive/folders/14UDH3KXzhLei9Ng8gwCyirYO_J27F7oA?usp=drive_link) 
 
 # Melhorias no sistema.
 
 **Tela de Lista de Cursos:**
-- 1º Criar uma coampo para localizar os cursos pelo nome.
+- 1º Criar uma campo para localizar os cursos pelo nome.
 - 2º Criar uma opção para o administrado editar as informações do curso.
   
 **Tela de Cadastrar curso:**
@@ -37,13 +37,9 @@ Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra
 
 # Testes de regressão automatizados com "CYPRESS"
   
- Foi selecionado 4 testes para executar os testes de regressão sendo os testes que cobre o fluxo de ponta a ponta e para isso foi utilizado o Cypress.
+ Para os testes de regressão foi utilizado o Cypress..
 
-- CT-0001	Validar o botão "Cadastrar curso"
-- CT 0016 - Validar o botão "LISTAR CURSOS" 
-- CT-0002	Cadastrar um curso oline com todas as informações obrigatórias.
-- CT-0003	Cadastrar um curso Presencial com todas as informações obrigatórias.
-- CT-0017	Excluir um curso da lista.
+
 
   
 
