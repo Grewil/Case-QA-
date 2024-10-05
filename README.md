@@ -23,11 +23,7 @@ Bem vindo ao BEEDOO QA Chalenge "https://creative-sherbet-a51eac.netlify.app/", 
  - **MASSA DE DADOS:** Massa de dados utilizado nos tetes.
 
 ## Evidências
-<<<<<<< HEAD
 Evidenêncas da execução dos testes foi realizada no formato MP4 e se encontra no link (https://drive.google.com/drive/folders/14UDH3KXzhLei9Ng8gwCyirYO_J27F7oA?usp=drive_link) 
-=======
-Evidências da execução dos testes foi realizada no formato MP4 e se encontra no link (https://drive.google.com/drive/folders/14UDH3KXzhLei9Ng8gwCyirYO_J27F7oA?usp=drive_link) 
->>>>>>> 6b82e2c (segundo commit)
 
 ## Melhorias no sistema.
 
